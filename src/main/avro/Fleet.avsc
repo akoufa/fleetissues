@@ -1,0 +1,15 @@
+{
+    "type": "record",
+    "name": "Fleet",
+    "namespace": "com.koufatzis.gen.fleet",
+    "fields": [
+        {
+            "name": "messageId",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        }
+    ]
+}
